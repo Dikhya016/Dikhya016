@@ -3,9 +3,7 @@
 <img align="right" src="./Capture.JPG" alt="image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikhya016&label=Profile%20views&color=0e75b6&style=flat" alt="dikhya016" /> </p>
 
-- 🌱 I’m currently learning **DSA**
-
-- 💬 Ask me about **Python, Algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 📫 How to reach me **dikhyasahu16@gmail.com**
 
