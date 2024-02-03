@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dikhya Sahu</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
+<img align="right" src="./Capture.JPG" alt="image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikhya016&label=Profile%20views&color=0e75b6&style=flat" alt="dikhya016" /> </p>
 
 - 🌱 I’m currently learning **DSA**
