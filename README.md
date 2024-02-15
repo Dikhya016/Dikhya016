@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **dikhyasahu16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12RO53e3A3DVI7ZFSs_9iAA-_V05pG1W2/view?usp=sharing](https://drive.google.com/file/d/12RO53e3A3DVI7ZFSs_9iAA-_V05pG1W2/view?usp=sharing)
-- exper <a href="https://drive.google.com/file/d/12RO53e3A3DVI7ZFSs_9iAA-_V05pG1W2/view?usp=sharing"> Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12RO53e3A3DVI7ZFSs_9iAA-_V05pG1W2/view?usp=sharing"> My Resume Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
