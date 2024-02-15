@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dikhya Sahu</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" src="./Capture.JPG" alt="image">
+<img align="right" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc5ODk5MDcsIm5iZiI6MTcwNzk4OTYwNywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE1VDA5MzMyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4M2IwN2Q5NTI0MDgzYjRiZTM0MGI5MjM4Mjg4YTg5OGM2ODBlMDAwMTY0MDFlY2MxYjQ0NDExYmIyYjM2YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3bdvMLzCoWgjH4qclw1Sa9A3Rj9rhnh5WzAODpixGiQ" alt="temp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikhya016&label=Profile%20views&color=0e75b6&style=flat" alt="dikhya016" /> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
