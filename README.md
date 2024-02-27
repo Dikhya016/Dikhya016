@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 📫 How to reach me **dikhyasahu16@gmail.com**
+  
+- 👨‍💻 Here see my Portfolio <a href="https://dikhyasahu-portfolio.netlify.app">Portfolio Link </a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/12RO53e3A3DVI7ZFSs_9iAA-_V05pG1W2/view?usp=sharing"> Resume Link</a>
 
