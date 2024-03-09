@@ -10,7 +10,7 @@
   
 - 👨‍💻 Here see my Portfolio <a href="https://dikhyasahu-portfolio.netlify.app">Portfolio Link </a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12RO53e3A3DVI7ZFSs_9iAA-_V05pG1W2/view?usp=sharing"> Resume Link</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HXOaA-KSdgeVts7YMzxqKiuEeRcTdszm/view?usp=sharing"> Resume Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
