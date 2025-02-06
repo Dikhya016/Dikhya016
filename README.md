@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikhya016&label=Profile%20views&color=0e75b6&style=flat" alt="dikhya016" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m a **MERN Stack Developer** 
 
 - 📫 How to reach me **dikhyasahu16@gmail.com**
   
